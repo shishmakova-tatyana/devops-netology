@@ -4,4 +4,4 @@ local .terraform directories
 лог файлы crash, файлы override
 CLI конфигурационные файлы .terraformrc terraform.rc
 create new fix branch
-testing IDE Py Charm
+creating tag
